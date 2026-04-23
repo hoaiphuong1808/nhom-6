@@ -11,7 +11,7 @@ body{
     min-height:100vh;
     display:flex;
     flex-direction:column;
-    background:url("picture/back ground.jpg") no-repeat center center/cover;
+    background:url("picture/background.jpg") no-repeat center center/cover;
     backdrop-filter: blur(3px);
 }
 
